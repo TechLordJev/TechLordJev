@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechLordJev
+- 👋 Hi, I’m @Traceback_Jev
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Projects.
